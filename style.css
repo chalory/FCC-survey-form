@@ -6,11 +6,21 @@ body {
 }
 
 
-h1{
+#title{
     text-align: center;
     font-family: 'Sedgwick Ave Display', cursive;
     font-style: italic;
     color:   #502137 ;
     animation-name: example;
     animation-duration: 4s;
+}
+
+#description{
+    text-align: center;
+    font-style: bold;
+    padding-bottom: 15px;
+}
+
+span{
+    color: green;
 }
