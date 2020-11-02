@@ -3,6 +3,7 @@ body {
     background-image: url("https://images.unsplash.com/photo-1565292266983-74457d481f44?ixlib=rb-1.2.1&auto=format&fit=crop&w=1575&q=80");
     background-size: cover;
     height: 300vh;
+    text-align: center;
 }
 
 
@@ -23,4 +24,10 @@ body {
 
 span{
     color: green;
+}
+
+#survey-form {
+    display: inline-block;
+    width: 100%;
+    
 }
