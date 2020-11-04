@@ -24,17 +24,23 @@ span{
     color: green;
 }
 
-#survey-form {
-    height:200px;
-    font-size:100px;
-    display:flex;
-    justify-content: center;
-    width: 400px;
+
+    
+
+
+.container{
+    margin: 0 auto;
+    width: 70%;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    display: flex;
+    flex: 0 0 auto;
+    max-width: 1000px;
     
 }
 
-.container{
-    display:block;
-    width: 100%;
-    align-self: center;
+.col-75{
+    width: ;
+    display: block;
 }
